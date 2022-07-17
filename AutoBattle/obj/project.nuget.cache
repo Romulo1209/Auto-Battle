@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MTr6OBiJDj9nPFA2902JjXfCkZw6jgB4zogrM/wo86lNMxBnGxhvoIQlwb2OJ4YhoNF/cI1trttqzQQ8k6ulhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\romul\\OneDrive\\Área de Trabalho\\AutoBattle\\AutoBattle\\AutoBattle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\romul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\romul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\romul\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
